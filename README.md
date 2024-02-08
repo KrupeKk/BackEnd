@@ -1,4 +1,5 @@
 # BackEnd 💙
+# ![](https://img.comunidades.net/col/colegiodompedropitanga/BRASAOAZUL.png)
 _Boas vindas ao meu perfil_ 
 - Meu nome é Gabriel 
 - Estou estudando programação BACK-END 
